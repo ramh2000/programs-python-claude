@@ -1,3 +1,4 @@
+markdown
 # Mis Proyectos de Automatización con Python
 
 ¡Hola! En este repositorio guardo mis scripts y prácticas mientras domino **Python** enfocado en la automatización de tareas repetitivas y la integración de la API de **Claude (Anthropic)**.
