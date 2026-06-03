@@ -1,11 +1,27 @@
-markdown
-# Mis Proyectos de Automatización con Python
+# Mis Programas en Python 🐍
 
-¡Hola! En este repositorio guardo mis scripts y prácticas mientras domino **Python** enfocado en la automatización de tareas repetitivas y la integración de la API de **Claude (Anthropic)**.
+¡Hola! Bienvenid@ a mi repositorio de aprendizaje. Aquí guardo mis primeros scripts en Python como parte de mi camino en el desarrollo de software.
 
-## 🛠️ Tecnologías y Herramientas
-- **Lenguaje:** Python 3
-- **APIs:** Anthropic API (Claude 3.5 Sonnet)
+## 📁 Proyectos Incluidos
 
-## 🚀 Proyectos en este repositorio
-- `automatizacion_claude.py`: Un script básico en Python que toma una lista de textos repetitivos, los procesa a través de la API de Claude de forma masiva y clasifica la información automáticamente.
+### 1. Lectura Automática de Archivos (`leer_archivo.py`)
+Un script sencillo que se encarga de abrir, leer y mostrar en pantalla el contenido de un archivo de texto de forma segura.
+
+* **Conceptos aplicados:** 
+  * Manejo de archivos con el bloque estándar `with open`.
+  * Control de errores y excepciones con `try / except` (para prevenir caídas si el archivo no existe).
+  * Codificación de caracteres (`utf-8`) para soportar acentos y caracteres especiales.
+
+---
+
+## 🛠️ Cómo ejecutar los programas
+
+1. Asegúrate de tener **Python 3** instalado en tu computadora.
+2. Clona o descarga este repositorio.
+3. Abre tu terminal en la carpeta del proyecto y ejecuta:
+   ```bash
+   python leer_archivo.py
+   ```
+---
+
+
