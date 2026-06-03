@@ -9,7 +9,6 @@ try:
         contenido = archivo.read()
         print(contenido)
         print("---------------------------------------")
-
 except FileNotFoundError:
     # Este bloque se ejecuta si el archivo txt no existe en la misma carpeta
     print(f"Error: El archivo '{nombre_archivo}' no fue encontrado.")
