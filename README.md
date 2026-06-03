@@ -8,11 +8,9 @@
 Un script que se encarga de abrir, leer y mostrar en pantalla el contenido de un archivo de texto de forma segura.
 * **Conceptos aplicados:** Manejo de archivos con `with open`, control de errores con `try/except` y codificación `utf-8`.
 
-### 2. [Nombre de tu Segundo Proyecto] (`nombre_del_archivo_2.py`)
-
-
-### 3. [Nombre de tu Tercer Proyecto] (`nombre_del_archivo_3.py`)
-
+### 2. Define el nombre del archivo original y su copia (`respaldo.py`)
+* **Conceptos aplicados:** Manejo de creacion de file TXT y respaldos.
+  
 ---
 
 ## 🛠️ Cómo ejecutar los programas
